@@ -1,0 +1,22 @@
+Koan 6 bibliography
+
+
+J.E.Auerbach, D.Aydin, A.Maesani, P.M. Kornatowski,
+T.Cieslewski, G.Heitz, P.R. Fernando, I.Loshchilov, L.Daler, D.Floreano, "RoboGen: Robot Generation through Artificial Evolution"
+http://mitpress.mit.edu/sites/default/files/titles/content/alife14/978-0-262-32621-6-ch022.pdf
+
+
+H. Lipson, J. B. Pollack, "Automatic design and manufacture of robotic lifeforms"
+http://www.nature.com/nature/journal/v406/n6799/pdf/406974a0.pdf
+
+
+J.Bongard,R.Pfeifer, "Evolving Complete Agents using Artificial Ontogeny"
+http://www.cs.uvm.edu/~jbongard/papers/MFMBongardPfeifer2003.pdf
+
+
+Open Dynamics Engine Wiki
+http://ode-wiki.org/wiki/index.php?title=Main_Page
+
+
+RoboGen Wiki
+http://www.robogen.org/wiki/index.php/Main_Page
